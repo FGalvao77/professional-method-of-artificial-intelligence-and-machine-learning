@@ -1,1 +1,4 @@
-# professional-method-of-artificial-intelligence-and-machine-learning
+# Professional Method of Artificial Intelligence and Machine Learning
+
+---
+---
